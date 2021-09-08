@@ -16,34 +16,9 @@
       "answer": "Respuesta a Pregunta 3468"
     },
     {
-      "id": 4,
-      "question": "Pregunta 4",
-      "answer": "Respuesta a Pregunta 4"
-    },
-    {
-      "question": "Pregunta 5",
-      "answer": "Respuesta a Pregunta 5",
-      "id": 5
-    },
-    {
-      "question": "Pregunta 6",
-      "answer": "Respuesta a Pregunta 6",
-      "id": 6
-    },
-    {
-      "question": "Pregunta 7",
-      "answer": "Respuesta a Pregunta 7",
-      "id": 7
-    },
-    {
-      "question": "Pregunta 8",
-      "answer": "Respuesta a Pregunta 8",
-      "id": 8
-    },
-    {
-      "question": "Pregunta 9",
-      "answer": "Prueba de ingreso pregunta 9 (Edwards)",
-      "id": 9
+      "question": "Pregunta 4 Modificada",
+      "answer": "Respuesta Pregunta 4 ",
+      "id": 4
     }
   ]
 }

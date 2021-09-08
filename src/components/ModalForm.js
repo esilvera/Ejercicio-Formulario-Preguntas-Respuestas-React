@@ -7,8 +7,8 @@ const ModalForm = ({ handleSubmit, setQuestion, setAnswer, question, answer }) =
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h5 class="modal-title">Modal title</h5>
-                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        <h5 class="modal-title">Modificacion de Preguntas</h5>
+                        {/* <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button> */}  {/* Este boton muestra la X en la esquina */}
                     </div>
                     <div class="modal-body">
                         <FAQForm
@@ -21,7 +21,7 @@ const ModalForm = ({ handleSubmit, setQuestion, setAnswer, question, answer }) =
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                        <button type="button" class="btn btn-primary">Save changes</button>
+                        {/* <button type="button" class="btn btn-primary">Save changes</button> */}
                     </div>
                 </div>
             </div>
