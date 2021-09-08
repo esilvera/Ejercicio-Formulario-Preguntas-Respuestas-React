@@ -7,7 +7,7 @@ import ModalForm from './components/ModalForm';
 
 function App() {
 
-  const [url] = useState("https://4000-fuchsia-swordfish-png4moq9.ws-us16.gitpod.io/faq");
+  const [url] = useState("https://4000-jade-sparrow-n4s07gph.ws-us16.gitpod.io/faq");
   //let nombre = "Luis Rodriguez";
   //console.log(nombre.toLowerCase().trim().split(""));
 
@@ -179,7 +179,7 @@ function App() {
               </div>
             </div>
           )
-        }“
+        }
       </div>
       <ModalForm
         handleSubmit={handleSubmitEdit}

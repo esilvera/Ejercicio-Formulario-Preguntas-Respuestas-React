@@ -39,6 +39,11 @@
       "question": "Pregunta 8",
       "answer": "Respuesta a Pregunta 8",
       "id": 8
+    },
+    {
+      "question": "Pregunta 9",
+      "answer": "Prueba de ingreso pregunta 9 (Edwards)",
+      "id": 9
     }
   ]
 }
